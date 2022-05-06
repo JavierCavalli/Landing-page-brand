@@ -5,7 +5,7 @@
 
 ## Demo: 
 
-https://vercel.com/javiercavalli/landing-page-brand
+https://landing-page-brand.vercel.app/
 
 ![image](https://i.ibb.co/b3pTZHg/shoelanding.png)
 
