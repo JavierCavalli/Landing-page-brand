@@ -2,7 +2,7 @@
 
 1. HTML 
 2. SCSS
-3. 
+
 ## Demo: 
 
 https://vercel.com/javiercavalli/landing-page-brand
