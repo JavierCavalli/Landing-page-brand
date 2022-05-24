@@ -1,3 +1,7 @@
+## About this project:
+
+I wanted to test some CSS animations and @keyframes
+
 ## Built With: 
 
 1. HTML 
@@ -9,4 +13,6 @@ https://landing-page-brand.vercel.app/
 
 ![image](https://i.ibb.co/b3pTZHg/shoelanding.png)
 
-## Run with liveserver extension.
+## How to run:
+
+Run with liveserver extension on VS Code
