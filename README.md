@@ -1,17 +1,18 @@
 ## About this project:
 
-I wanted to test some CSS animations and @keyframes
+Project from Angela Yu's The Complete 2022 Web Development Bootcamp, added the animations, testing responsiveness.
 
 ## Built With: 
 
 1. HTML 
 2. SCSS
+3.Animate on Scroll
 
 ## Demo: 
 
-https://landing-page-brand.vercel.app/
+https://tindog-main.vercel.app/
 
-![image](https://i.ibb.co/b3pTZHg/shoelanding.png)
+![image](https://i.ibb.co/PNDVpgp/tindog.png)
 
 ## How to run:
 
