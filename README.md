@@ -1,18 +1,17 @@
 ## About this project:
 
-Project from Angela Yu's The Complete 2022 Web Development Bootcamp, added the animations, testing responsiveness.
+Testing Animations
 
 ## Built With: 
 
 1. HTML 
 2. SCSS
-3.Animate on Scroll
 
 ## Demo: 
 
-https://tindog-main.vercel.app/
+https://landing-page-brand.vercel.app/
 
-![image](https://i.ibb.co/PNDVpgp/tindog.png)
+![image](https://i.ibb.co/wprcPcG/shoelanding.png)
 
 ## How to run:
 
